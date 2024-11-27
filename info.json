@@ -1,2 +1,32 @@
 {
+    "sadis002": {
+   "password": "$2y$12$UkuuxhkuzACPNW.MCHFkFuW9aqzYdnn7dmQFKTaExRg30oOrsGrXi",
+   "devices": ["SM-A146P43883EF2D49153AB"],
+   "expiry": "27-12-2024 12:00 PM"
+},
+"gopart007": {
+   "password": "$2y$12$jUWpNq2CBzAwlo9Eed3Vi.4LXy3rFBazK1bj2iS/BhKLxmKV2WZNa",
+   "devices": ["SM-A057F8F758C98CB21A149"],
+   "expiry": "27-12-2024 12:00 PM"
+},
+  "gopart008": {
+   "password": "$2y$12$.JKdLsfY7DPf.5G7ZyGzRe4fTnzsSTyqbYyLBrCMs.z13TTEoiH2W",
+   "devices": ["M2101K7BNYDBC0E4526136DA12"],
+   "expiry": "27-12-2024 12:00 PM"
+},
+  "gopart003": {
+   "password": "$2y$12$oXdMNV42OCVawAw5g5i5oOq0R3p/Iu1ieiFHVNg9jbLEIezzSOdK.",
+   "devices": ["TECNOLH6N837706988D33F457"],
+   "expiry": "27-12-2024 12:00 PM"
+},
+  "gopart004": {
+   "password": "$2y$12$tGdDWtRStw.ZAvZ7fkCoUeFnETqLCAVZeLThW3xh3cMdI1MOw.mGq",
+   "devices": ["M2101K7BNYDBC0E4526136DA12"],
+   "expiry": "26-12-2024 12:00 PM"
+},
+"gopart005": {
+   "password": "$2y$12$AKpWgY8beUSgaBbBipMx.eOgExdxrTYHAcSZsxuywdzk3pnSByriq",
+   "devices": ["SM-A146P43883EF2D49153AB"],
+   "expiry": "27-12-2024 12:00 PM"
+},
 }
