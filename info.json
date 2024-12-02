@@ -34,4 +34,9 @@
    "devices": ["VIVO1902E1EB1AE206E34055"],
    "expiry": "28-12-2024 12:00 PM"
 },
+  "SADIS020": {
+   "password": "$2y$12$yg0eHPvw9Artmpz62BptoOryreeDn3wMuS7yRcIf/iVwcT26cdZWC",
+   "devices": ["CPH19238F4C7707318C9A2E"],
+   "expiry": "02-01-2025 12:00 PM"
+},
 }
