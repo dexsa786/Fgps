@@ -1,49 +1,4 @@
 {
-  "sadis002": {
-   "password": "$2y$12$UkuuxhkuzACPNW.MCHFkFuW9aqzYdnn7dmQFKTaExRg30oOrsGrXi",
-   "devices": ["SM-A146P43883EF2D49153AB"],
-   "expiry": "27-12-2024 12:00 PM"
-},
-   "gopart02": {
-   "password": "$2y$12$DB2gHGPodd2d640I.0cpQeBipiqMSGIFdyP1ME4prdS1rEvcSGWDy",
-   "devices": ["23108RN04Y5A6DC8BEC4512275"],
-   "expiry": "17-12-2024 12:00 PM"
-},
- "gopart01": {
-   "password": "$2y$12$bIHYELlKoEQ7JpnYSlVybO8Fq8TMsVrgzELHA/.orf3MGazkKckKC",
-   "devices": ["REDMINOTE76426CDC2520F892C"],
-   "expiry": "17-12-2024 12:00 PM"
-},
-"gopart007": {
-   "password": "$2y$12$jUWpNq2CBzAwlo9Eed3Vi.4LXy3rFBazK1bj2iS/BhKLxmKV2WZNa",
-   "devices": ["SM-A057F8F758C98CB21A149"],
-   "expiry": "27-12-2024 12:00 PM"
-},
-  "gopart003": {
-   "password": "$2y$12$oXdMNV42OCVawAw5g5i5oOq0R3p/Iu1ieiFHVNg9jbLEIezzSOdK.",
-   "devices": ["TECNOLH6N837706988D33F457"],
-   "expiry": "27-12-2024 12:00 PM"
-},
-  "gopart004": {
-   "password": "$2y$12$tGdDWtRStw.ZAvZ7fkCoUeFnETqLCAVZeLThW3xh3cMdI1MOw.mGq",
-   "devices": ["M2101K7BNYDBC0E4526136DA12"],
-   "expiry": "26-12-2024 12:00 PM"
-},
-"gopart005": {
-   "password": "$2y$12$AKpWgY8beUSgaBbBipMx.eOgExdxrTYHAcSZsxuywdzk3pnSByriq",
-   "devices": ["SM-A146P43883EF2D49153AB"],
-   "expiry": "27-12-2024 12:00 PM"
-},
-  "gojek009": {
-   "password": "$2y$12$P79KdXdDn1Q36/oHWwvmk.mVYc4Z0Iuwlrlwi8zhlP4Irxam770ju",
-   "devices": ["RMX1971B39CA590759E814B"],
-   "expiry": "28-12-2024 12:00 PM"
-},
-"gopart17": {
-   "password": "$2y$12$Db18R330Ki7fl8qh9.dKc.W/m3NwI6rFl2yVjH4t17wb8lKd1SWSK",
-   "devices": ["VIVO1902E1EB1AE206E34055"],
-   "expiry": "28-12-2024 12:00 PM"
-},
   "SADIS020": {
    "password": "$2y$12$yg0eHPvw9Artmpz62BptoOryreeDn3wMuS7yRcIf/iVwcT26cdZWC",
    "devices": ["CPH19238F4C7707318C9A2E"],
